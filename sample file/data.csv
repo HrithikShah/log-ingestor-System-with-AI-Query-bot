@@ -1,0 +1,6 @@
+level,message,resourceId,timestamp,traceId,spanId,commit,metadata/parentResourceId
+error,Failed to connect to DB,server-1234,2023-09-15T08:00:00Z,abc-xyz-123,span-456,5e5342f,server-0987
+info,Failed to connect to DB,server-1234,2023-09-15T08:00:00Z,abc-xyz-123,span-4987,5e5342f,server-0000
+error,Failed to connect to DB,server-1234,2023-09-15T08:00:00Z,abc-xyz-123,span-456,5e5342f,server-0987
+info,Failed to connect to DB,server-1234,2023-09-15T08:00:00Z,abc-xyz-123,span-4987,5e5342f,server-0000
+warming,Failed to connect to DB,server-1234,2023-09-15T08:00:00Z,abc-xyz-123,span-4987,5e5342f,server-9080
